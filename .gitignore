@@ -132,3 +132,5 @@ dmypy.json
 Data Analyst Mini Project Overview.pdf
 data/
 mobiSystemDataMaster.csv
+stationLocs.csv
+trips.csv
