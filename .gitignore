@@ -129,8 +129,9 @@ dmypy.json
 .pyre/
 
 # Custome
-Data Analyst Mini Project Overview.pdf
+.pdf
 data/
 mobiSystemDataMaster.csv
 stationLocs.csv
 trips.csv
+Slow - mobiBikeAnalysis.ipynb
